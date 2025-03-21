@@ -26,6 +26,7 @@ Also checking out Mischa van den burg on Youtube; following a lot of his steps a
 * Applications
 
 	* Grafana/Prometheus
+		
 		OK SO- 
 			I ran into some snags with this one. I was able to get the K8 cluster to install Prometheus/Grafana using their documentation. I had to install Helm then I was able to get the repo to push down grafana. It's up. The problem that I'm having now is setting up the ingress NGINX to allow access through my network since I'm not hosting it on my local device but through some Proxmox VMs. To look into later this week. -Eric 3/20
 			https://github.com/prometheus-community/helm-charts/blob/main/charts/kube-prometheus-stack/README.md
