@@ -1,4 +1,4 @@
-# homelab
+# ericlab
 Documentation of my homelab + repository.
 
 # Documentation
@@ -15,18 +15,20 @@ I want to be able to host my own things internally (like most internet geeks) an
 So far: I've used a few videos on Youtube to help set up my K8S controller and nodes. I have no idea what I'm doing but shoutout to 
 Learn Linux TV and his guide regarding using K8S on proxmox.
 	
-	* https://www.youtube.com/watch?v=U1VzcjCB_sY
-	* https://www.learnlinux.tv/how-to-build-an-awesome-kubernetes-cluster-using-proxmox-virtual-environment/
+* https://www.youtube.com/watch?v=U1VzcjCB_sY
+* https://www.learnlinux.tv/how-to-build-an-awesome-kubernetes-cluster-using-proxmox-virtual-environment/
 
-Also checking out Mischa van den burg on Youtube; following a lot of his steps and learning them as I go on what is worthwhile.
-	* https://www.youtube.com/playlist?list=PL_JVnPgp2IReqn18A46SGh8yy5WVVWHAu
+Also checking out Mischa van den burg on Youtube; following a lot of his steps and learning them as I go on what is worthwhile. * 
+
+* https://www.youtube.com/playlist?list=PL_JVnPgp2IReqn18A46SGh8yy5WVVWHAu
 
 # Goals
-	* Applications
-		* Grafana/Prometheus
-		* Plex
-		* Adguard for DNS
-		* Myfin (budgetting application)
-		* Homepage (intranet, type of deal.)
+* Applications
+
+	* Grafana/Prometheus
+	* Plex
+	* Adguard for DNS
+	* Myfin (budgetting application)
+	* Homepage (intranet, type of deal.)
 
 
