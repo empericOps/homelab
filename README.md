@@ -19,4 +19,14 @@ I want to be able to host my own things internally (like most internet geeks) an
 	* https://www.learnlinux.tv/how-to-build-an-awesome-kubernetes-cluster-using-proxmox-virtual-environment/
 
 	Also checking out Mischa van den burg on Youtube; following a lot of his steps and learning them as I go on what is worthwhile.
+	* https://www.youtube.com/playlist?list=PL_JVnPgp2IReqn18A46SGh8yy5WVVWHAu
+
+#Goals
+	* Applications
+		* Grafana/Prometheus
+		* Plex
+		* Adguard for DNS
+		* Myfin (budgetting application)
+		* Homepage (intranet, type of deal.)
+
 
