@@ -28,7 +28,7 @@ Also checking out Mischa van den burg on Youtube; following a lot of his steps a
 
  With one of my goals being to learn IaC (Infrastructure as Code) - I decided on Flux as my choice. I got interested in GitOps and being able to push/pull as needed and version 
  control. I know I'm going to mess up. Part of the process right? Well, if I mess up, how can I revert and learn from my mistakes? I wouldn't be able to do it without some sort of Version 
- Control. That's where Flux comes in. Flux allows me to use "GitOps" so I can do some proper verison controlling.
+ Control. That's where Flux comes in. 
 
  Check it out here: https://fluxcd.io/flux/installation/ 
 
