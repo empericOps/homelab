@@ -24,7 +24,7 @@ Also checking out Mischa van den burg on Youtube; following a lot of his steps a
 
 # Goals
 
-## GitOps 
+### GitOps 
 
  With one of my goals being to learn IaC (Infrastructure as Code) - I decided on Flux as my choice. I got interested in GitOps and being able to push/pull as needed and version 
  control. I know I'm going to mess up. Part of the process right? Well, if I mess up, how can I revert and learn from my mistakes? I wouldn't be able to do it without some sort of Version 
@@ -34,7 +34,7 @@ Also checking out Mischa van den burg on Youtube; following a lot of his steps a
 
 
 
-## Applications
+### Applications
 
  * Grafana/Prometheus
 		
